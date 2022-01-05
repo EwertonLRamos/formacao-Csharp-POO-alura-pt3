@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.exe
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.deps.json
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.dll
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\ref\BBank.dll
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\bin\Debug\net5.0\BBank.pdb
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.dll
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\ref\BBank.dll
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.pdb
+C:\Users\Ewerton Lucas\source\repos\BBank\BBank\obj\Debug\net5.0\BBank.genruntimeconfig.cache
